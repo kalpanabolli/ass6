@@ -1,0 +1,8 @@
+D:\Phase2\day6\Ass6\Assessment6\Assessment6\bin\Debug\Assessment6.exe.config
+D:\Phase2\day6\Ass6\Assessment6\Assessment6\bin\Debug\Assessment6.exe
+D:\Phase2\day6\Ass6\Assessment6\Assessment6\bin\Debug\Assessment6.pdb
+D:\Phase2\day6\Ass6\Assessment6\Assessment6\obj\Debug\Assessment6.csproj.AssemblyReference.cache
+D:\Phase2\day6\Ass6\Assessment6\Assessment6\obj\Debug\Assessment6.csproj.SuggestedBindingRedirects.cache
+D:\Phase2\day6\Ass6\Assessment6\Assessment6\obj\Debug\Assessment6.csproj.CoreCompileInputs.cache
+D:\Phase2\day6\Ass6\Assessment6\Assessment6\obj\Debug\Assessment6.exe
+D:\Phase2\day6\Ass6\Assessment6\Assessment6\obj\Debug\Assessment6.pdb
